@@ -1,6 +1,6 @@
 # Generic Jasmine Sandbox
 
-This is a Jasmine 2.2.1 sandbox that tests a Checker "class". The Checker is intended to check checkboxes on a Jira page.
+This is a Jasmine 2.2.1 sandbox that tests a Checker "class" that checks checkboxes. It's really just a TDD/Jasmine exercise.
 
 ## Installation & Running Tests Locally
 
