@@ -2,6 +2,8 @@
 
 This is a Jasmine 2.2.1 sandbox that tests a Checker "class" that checks checkboxes. It's really just a TDD/Jasmine exercise. It's forked from the Plunker "Jasmine "Hello World" sandbox w/ Karma setup" at http://plnkr.co/edit/L3ZdEH?p=info.
 
+This exercise can be run in Plunker instead of cloning it. http://plnkr.co/edit/qh73iOuLUMq9QanyUWSZ?p=info
+
 ## Installation & Running Tests Locally
 
 1. Download `.zip` from Plunker:  ![screenshot](http://goo.gl/huqrRO)
